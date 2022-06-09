@@ -6,3 +6,4 @@ In order to copy the full repository please clone it to your workspace:
 ```console
 git clone https://github.com/TNMayer/IU_DLMDSSCTDS01
 ```
+You can follow along the replication code under "./analysis.ipynb".
